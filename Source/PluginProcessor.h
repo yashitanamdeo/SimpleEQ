@@ -1,7 +1,7 @@
 /*
   ==============================================================================
 
-    This file contains the basic framework code for a JUCE plugin processor. 
+    This file contains the basic framework code for a JUCE plugin processor.
 
   ==============================================================================
 */
